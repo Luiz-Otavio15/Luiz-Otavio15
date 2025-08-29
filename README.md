@@ -39,9 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Otavio15&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
